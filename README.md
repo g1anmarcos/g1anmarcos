@@ -1,4 +1,4 @@
-# Hi, I'm Gian Castro
+#  Gian Castro
 
 I'm a Computer Science student at Florida International University with interests in software development, cybersecurity, fraud prevention, risk, and project management. I enjoy building practical projects that connect backend logic, web technologies, and real-world problem solving.
 
